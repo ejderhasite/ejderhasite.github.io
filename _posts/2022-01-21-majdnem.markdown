@@ -1,2 +1,8 @@
+---
+layout: post
+title: "Miért ésszerűbb az idelizmus a materializmusal szemben?"
+comments: true
+categories: Filozófia
+---
 
 ### Whatever

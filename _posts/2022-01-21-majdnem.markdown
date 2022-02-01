@@ -1,8 +1,16 @@
 ---
 layout: post
-title: "Miért ésszerűbb az idelizmus a materializmusal szemben?"
+title: Miért ésszerűbb az idelizmus a materializmusal szemben?
 comments: true
 categories: Filozófia
+published: true
 ---
 
 ### Whatever
+
+Itt az első [link](https://telex.hu)
+
+> We loved with a love that was more than love
+
+![alt textje]({{site.baseurl}}/_posts/dragon.jpg)
+

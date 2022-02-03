@@ -1,10 +1,10 @@
 # Site settings
 title: "Költészet és Filozófia"
 author: "Ejderha"
-description: "Az itt megjelenő írások fő célja, a mai világunkban uralkodó materialista, fizikalista világnézet fölösleges szenvedtető uralmát megdönteni filozófiai alapokon és egy tágabb világnézet felé adni meghívást."
+description: "Az itt megjelenő írások fő célja, a mai világunkban uralkodó materialista világnézet fölösleges szenvedtető uralmát megdönteni filozófiai alapokon és egy tágabb világnézet felé adni meghívást."
 keywords: "Költészet, Filozófia, Idealizmus, Materializmus, Fizikalizmus, Nondualitás, Védikus, Zen, Tudat, Mesterséges Intelligencia, Halál, Isten"
 biography: "A bölcsesség szerelmese vagyok, szégyentelen promiszkuitásban élek a világnézetemet tágító gondolatokkal."
-colophon: "© 2022 Kadlicskó Lőrinc.<br>A tartalom <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> licensz alatt jeleniik meg annak visszavonásáig."
+colophon: "© 2022 Kadlicskó Lőrinc.<br>A tartalom <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> licensz alatt jelenik meg annak visszavonásáig."
 
 baseurl: "http://ejderhasite.github.io/"
 url: "http://ejderhasite.github.io"

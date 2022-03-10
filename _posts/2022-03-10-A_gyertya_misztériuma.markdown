@@ -2,7 +2,7 @@
 
 layout: post 
 
-title: A Gyertya Misztéiruma
+title: A Gyertya Misztériuma
 
 comments: true 
 

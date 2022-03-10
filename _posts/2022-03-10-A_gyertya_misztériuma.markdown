@@ -12,9 +12,6 @@ published: true
 
 --- 
 
-Quote
-
-
 Ha valami igazán nehéz érzelmi folyamat van, akkor öszötnösen jön a gyertyagyújtás nálam. Ha együttérzés kifejezése, fókuszálás biztosítása a másik felé: gyújtok egy gyertyát érted, a szerettedért. 
 Miben áll a gyertya szerepe? Miért tudja a tudatunk ilyen szépen használni, és pontosan mire, miért is?
 
